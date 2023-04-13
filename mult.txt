@@ -1,0 +1,12 @@
+# Python program to multiply three number
+
+# take inputs
+a = 2
+b = 3
+c = 5
+
+# calculate product
+product = a * b * c
+
+# print multiplication value
+print("The Product of Number:", product)
