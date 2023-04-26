@@ -3,7 +3,7 @@
 int main() {
 
     int firstNumber, secondNumber, thirdNumber, sum;
-
+printf("This is a  c language program");
     printf("Enter three integers to add: ");
     scanf("%d %d %d", &firstNumber, &secondNumber, &thirdNumber);
 
