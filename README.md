@@ -1,9 +1,9 @@
-# git_conflict
-#include <stdio.h>
 int main() {
-
     int firstNumber, secondNumber, thirdNumber, sum;
-printf("This is a  c language program");
+
+=======
+    printf("THis is my code >>");
+>>>>>>> 1c624d3 (Commit done In B)
     printf("Enter three integers to add: ");
     scanf("%d %d %d", &firstNumber, &secondNumber, &thirdNumber);
 
